@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+23:47:51	5142/5142	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2266e312f7-239b%22	https://iappscarelive.github.io/robots.txt		(from )
+23:47:51	18767/18767	---M-Z	200	added ('OK')	text/html	etag:W/%2266ec5e8a-494f%22	https://iappscarelive.github.io/iappscarelive2/?gad_source=1&gclid=EAIaIQobChMI8ZvdiMnPiAMV9iqtBh3GtScBEAMYASAAEgLXI_D_BwE	C:/My%20Web%20Sites/apple/iappscarelive.github.io/iappscarelive2/index7e39.html	(from )
